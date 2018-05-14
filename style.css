@@ -1,0 +1,27 @@
+.maroon-color {
+	background-color: rgb(128,0,0);
+}
+.jumbotron{
+	background:url('pic/barista.jpg');
+	background-size: cover;
+	height: 600px;
+	padding-top: 18%;
+
+}
+.jumbotron h1 {
+	color: orange;
+	font-size: 72px;
+}
+.jumbotron p{
+	color: yellow;
+}
+.login-btn{
+	background-color: rgba(0,0,0,0.3);
+	color: black;
+}
+.jumbotron hr{
+	width: 30%;
+}
+#features{
+	background-color: rgb(238,242,245);
+}
